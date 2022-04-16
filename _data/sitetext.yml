@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       - title: "Diseño de piezas"
         desc: "consiste en que nuestras maquinas resiclan piezas rotas o viegos  para aser herramientas especiales y resistentes."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Rebaja] (https://en.wikipedia.org/wiki/Markdown)"
+        desc: "consiste algunas  piezas las tenemos en rebaja por el buen fin"
         icon: fab fa-markdown
 
   portfolio:
