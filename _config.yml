@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : rayo-soporte-tecnico.
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Bienvenido soporte-tecnico-rayo
+description: "Bienvenido soporte-tecnico-rayo"
 author     : Angel alberto de la rosa ramirez
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
