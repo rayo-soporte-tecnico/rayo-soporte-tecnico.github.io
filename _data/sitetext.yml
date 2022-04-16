@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "SERVICIOS"
+    text: "damos reciclaje en piezas diferentes o rotas para ser mas piezas especiales"
     section: services
     list:
       - title: "E-Commerce"
