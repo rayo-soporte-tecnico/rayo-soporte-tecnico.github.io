@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Bienvenidos a soporte mantenimiento!
-    text: mantenemos las heramientas especiales las reciclamos
+    text: heramientas de piezas especiales 
     button: mas informacion
     buttonlink: "#services"
 
