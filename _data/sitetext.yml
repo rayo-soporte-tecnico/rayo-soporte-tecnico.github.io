@@ -21,8 +21,8 @@ en: &DEFAULT_EN
     text: "damos reciclaje en piezas diferentes o rotas para ser mas piezas especiales"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Comercio electrónico"
+        desc: "consiste en llevar las piezas especiales asta su casa o destino o tabajo o lugar que dese."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
