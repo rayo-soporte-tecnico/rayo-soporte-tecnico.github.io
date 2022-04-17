@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "línea de tiempo"
-    text: "consiste en que nuestra empresa reciclage no contaminar el medio ambiental  "
+    text: " consiste en mejorar  el tiempo de herramienta la duracion  y la resistecia o  usos personales "
     section: timeline
     # left is the default
     #start_align: "left"
@@ -71,8 +71,8 @@ en: &DEFAULT_EN
 
   about:
     title: "sobre la empresa"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "consiste en que nuestra empresa reciclage  con piezas viegas o rotas  para convertir piezas con mas duracion y mejores usos "
+    body: "."
     section: about
 
   clients:
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
