@@ -33,8 +33,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "DATOS"
+    text: "consiste tener informacion de las piezas especiales y su recistencia o duracion ."
     section: portfolio
     closebutton: "Close Project"
 
