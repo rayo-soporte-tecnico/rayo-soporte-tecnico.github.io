@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "ACERCA DE LA EMPRESA"
-    text: "Lorem ipsu"
+    text: "consiste en que nuestra empresa reciclajey no contaminar el medio ambiental  "
     section: timeline
     # left is the default
     #start_align: "left"
