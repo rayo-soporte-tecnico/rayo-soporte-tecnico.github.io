@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "ACERCA DE LA EMPRESA"
-    text: "Lorem ipsum timeline"
+    text: "Lorem ipsu"
     section: timeline
     # left is the default
     #start_align: "left"
