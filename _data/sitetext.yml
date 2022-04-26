@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "piezas espesiales "
+      - title: "piezas especiales "
         year: "2005-2035"
         desc: "tambien puede contar con nuestros locales en todos  los paises  tambien cuentan a domizilio de piezas  especiales!"
         image: assets/img/timeline/1.jpg
