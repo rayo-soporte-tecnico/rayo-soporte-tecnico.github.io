@@ -55,9 +55,9 @@ en: &DEFAULT_EN
         desc: "los paquetes  se dirigen a diferents paises para ayudar a no contaminar con diferentes prosedimientos en maquinas ambiente!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "herramientas de piezas especiales"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "nuestra piezas areglar los dispositivos de monitor computadora o diferentes maquinas de procesar."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
