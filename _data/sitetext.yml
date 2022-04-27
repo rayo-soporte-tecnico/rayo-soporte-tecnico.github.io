@@ -60,9 +60,9 @@ en: &DEFAULT_EN
         desc: "nuestra piezas areglar los dispositivos de monitor computadora o diferentes maquinas de procesar."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "descripcion"
+        year: "2015-2020"
+        desc: "connsiste entener  datos de las piezas i su forma de consistir y formar una pieza especial y forma de no contaminar y resiclar y formar una nueva forma de no contaminar."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
