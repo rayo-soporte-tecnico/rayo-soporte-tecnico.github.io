@@ -57,12 +57,12 @@ en: &DEFAULT_EN
         alt:
       - title: "herramientas de piezas especiales"
         year: "2019"
-        desc: "nuestra piezas areglar los dispositivos de monitor computadora o diferentes maquinas de procesar."
+        desc: "nuestra piezas arreglar los dispositivos de monitor computadora o diferentes máquinas de procesar."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "descripcion"
         year: "2015-2020"
-        desc: "connsiste entener  datos de las piezas i su forma de consistir y formar una pieza especial y forma de no contaminar y resiclar y formar una nueva forma de no contaminar."
+        desc: "connsiste entener  datos de las piezas y su forma de consiste   formar una pieza especial y forma de no contaminar y reciclar y formar una nueva forma de no contaminar."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
