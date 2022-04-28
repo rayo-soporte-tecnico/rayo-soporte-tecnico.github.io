@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Comercio electrónico"
-        desc: "consiste en llevar las piezas especiales asta su casa o destino o tabajo o lugar que dese."
+        desc: "consiste en llevar las piezas especiales hasta su casa o destino o tabajo o lugar que desee."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Diseño de piezas"
-        desc: "consiste en que nuestras maquinas resiclan piezas rotas o viegos  para aser herramientas especiales y resistentes."
+        desc: "consiste en que nuestras máquinas reciclan piezas rotas o viejos  para haser herramientas especiales y resistentes."
         icon: fas fa-laptop
       - title: "[Rebaja] (https://en.wikipedia.org/wiki
                /Markdown)"
