@@ -47,12 +47,12 @@ en: &DEFAULT_EN
     events:
       - title: "piezas especiales "
         year: "2005-2035"
-        desc: "tambien puede contar con nuestros locales en todos  los paises  tambien cuentan a domizilio de piezas  especiales!"
+        desc: "tambien puede contar con nuestros locales en todos  los paises  tambien cuentan a domicilio de piezas  especiales!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "paquetes en vuelo"
         year: "March 2025"
-        desc: "los paquetes  se dirigen a diferents paises para ayudar a no contaminar con diferentes prosedimientos en maquinas ambiente!"
+        desc: "los paquetes  se dirigen a diferentes paises para ayudar a no contaminar con diferentes procedimientos en máquinas ambientales!"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "herramientas de piezas especiales"
